@@ -1,9 +1,9 @@
-DROPBOX Uploader
+#DROPBOX Uploader
 
 This app takes all the content and structure of the folder
 it is ran in and uploads it to your dropbox account. (Apps/<"Your app name">)
 
-HOW TO USE
+##HOW TO USE
 
 What you'll need: 
    Your dropbox app access token.
@@ -36,7 +36,7 @@ What you'll need:
 7. The uploaded folder with it's content will be in your "Apps" folder, under the name
    of whatever you chose to name your app.
 
-HOW IT WORKS
+##HOW IT WORKS
 
 1. Dropbox interface class:
    -Parameters: TOKEN and DBX(dropbox api object)
